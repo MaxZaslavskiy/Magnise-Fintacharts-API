@@ -1,0 +1,6 @@
+@FintachartsApi_HostAddress = http://localhost:5164
+
+GET {{FintachartsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
